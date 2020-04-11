@@ -1,0 +1,66 @@
+﻿@model BeestjeOpJeFeestje.Models.BookingViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+<div>
+    <h4>Booking</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Payment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Payment)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.Discount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.Discount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Booking.IsConfirmed)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Booking.IsConfirmed)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Customer.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.Name)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.Animals.First().Name)
+        </dt>*@
+
+        @*@foreach (var animal in Model.Animals)
+        {
+            <dd>
+                @Html.DisplayFor(model => animal.Name)
+            </dd>
+        }*@
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

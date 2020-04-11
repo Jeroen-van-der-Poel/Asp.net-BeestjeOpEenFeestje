@@ -1,0 +1,7 @@
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\b\BeestjeOpJeFeestje.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\b\BeestjeOpJeFeestje.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\b\BeestjeOpJeFeestje.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\b\BeestjeOpJeFeestje.Tests\bin\Debug\BeestjeOpJeFeestje.Tests.dll.config
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\b\BeestjeOpJeFeestje.Tests\bin\Debug\BeestjeOpJeFeestje.Tests.dll
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\i\BeestjeOpJeFeestje.Tests\Debug\BeestjeOpJeFeestje.Tests.csproj.CopyComplete
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\i\BeestjeOpJeFeestje.Tests\Debug\BeestjeOpJeFeestje.Tests.dll

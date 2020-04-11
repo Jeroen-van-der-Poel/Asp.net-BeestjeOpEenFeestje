@@ -1,0 +1,2 @@
+[13:21:55.037 Verbose] - BuildManager - C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\BeestjeOpJeFeestje.Tests\Controllers\DiscountChecks.cs(79,13): error CS0103: The name 'total' does not exist in the current context
+[13:21:55.037 Verbose] - BuildManager - C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\BeestjeOpJeFeestje.Tests\Controllers\DiscountChecks.cs(79,21): error CS0103: The name 'total' does not exist in the current context

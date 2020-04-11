@@ -1,0 +1,4 @@
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\b\BeestjeOpJeFeestje.Core\bin\Debug\BeestjeOpJeFeestje.Core.dll
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\i\BeestjeOpJeFeestje.Core\Debug\BeestjeOpJeFeestje.Core.csprojAssemblyReference.cache
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\i\BeestjeOpJeFeestje.Core\Debug\BeestjeOpJeFeestje.Core.csproj.CopyComplete
+C:\Users\jeroe\OneDrive\Documents\GitHub\eindopdracht-prog6-1920-bas_jeroen\BeestjeOpJeFeestje\.vs\BeestjeOpJeFeestje\v16\lut\0\i\BeestjeOpJeFeestje.Core\Debug\BeestjeOpJeFeestje.Core.dll

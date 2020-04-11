@@ -1,0 +1,48 @@
+﻿@model BeestjeOpJeFeestje.Models.BookingViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Booking.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Booking.Payment)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Booking.Discount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Booking.IsConfirmed)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.Bookings)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Payment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsConfirmed)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
